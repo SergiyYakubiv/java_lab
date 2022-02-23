@@ -1,4 +1,4 @@
-First Java Lab
+## Variant 60 code was written by Sergiy Yakubiv from IoT-14
 Опис завдання
 Створити консольну програму мовою Java і написати record клас <Назва_із_завдання> який додатково міститиме:
 
