@@ -1,3 +1,4 @@
+* * *
 ## Variant 60 code was written by Sergiy Yakubiv from IoT-14
 * * *
 # Опис завдання
